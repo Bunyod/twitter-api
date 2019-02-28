@@ -1,4 +1,4 @@
-name := "twitter"
+name := "twitter-api"
 
 version := "0.1"
 
